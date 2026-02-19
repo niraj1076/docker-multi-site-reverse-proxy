@@ -7,6 +7,10 @@ The setup was deployed on an AWS EC2 Ubuntu instance.
 
 ---
 
+![Architecture Diagram](archicture.png)
+
+---
+
 ##  Project Objective
 
 Host two separate websites on the same server using:
